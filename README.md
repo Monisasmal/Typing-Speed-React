@@ -31,3 +31,15 @@ Vercel for deployment
 <img width="1366" height="658" alt="image" src="https://github.com/user-attachments/assets/c1a8cd90-146b-4edf-a37b-92e0e238f2a5" />
 <img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/40b207d3-67ea-4e40-9810-4f40cb9ec222" />
 
+🙋‍♀️ Author
+
+## Manaswini Sasmal
+
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
+
