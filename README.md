@@ -25,3 +25,9 @@ React (functional components + hooks)
 CSS3 
 
 Vercel for deployment
+
+## Screenshot
+
+<img width="1366" height="658" alt="image" src="https://github.com/user-attachments/assets/c1a8cd90-146b-4edf-a37b-92e0e238f2a5" />
+<img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/40b207d3-67ea-4e40-9810-4f40cb9ec222" />
+
